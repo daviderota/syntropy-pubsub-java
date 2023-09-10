@@ -31,7 +31,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 This project and everyone participating in it is governed by the
 [Syntropy Pubsub Kotlin Code of Conduct](https://github.com/daviderota/pubsub-java/blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
-to <devrel@syntropynet.com>.
+to owner of this repo.
 
 
 ## I Have a Question

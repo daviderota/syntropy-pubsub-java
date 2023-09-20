@@ -1,8 +1,8 @@
-# PubSub Kotlin
+# PubSub Java
 
-Welcome to the documentation for the Kotlin SDK for the Data Layer by Syntropy! This SDK allows seamless integration with our Data Layer solution, enabling you to leverage real-time data streams in your Kotlin applications. With the Kotlin SDK, you can unlock the power of the Data Layer and harness real-time insights for your data-driven projects.
+Welcome to the documentation for the Java SDK for the Data Layer by Syntropy! This SDK allows seamless integration with our Data Layer solution, enabling you to leverage real-time data streams in your Java applications. With the Java SDK, you can unlock the power of the Data Layer and harness real-time insights for your data-driven projects.
 
-[pubsub-Kotlin](https://github.com/daviderota/pubsub-Kotlin) is a Kotlin example illustrating the use of the Syntropy Data Layer project, which facilitates subscription to existing data streams or publishing new ones. This example employs the NATS messaging system and offers a simpler starting point for integrating Kotlin applications with the Syntropy Data Layer platform.
+[pubsub-Java](https://github.com/daviderota/pubsub-Java) is a Java example illustrating the use of the Syntropy Data Layer project, which facilitates subscription to existing data streams or publishing new ones. This example employs the NATS messaging system and offers a simpler starting point for integrating Java applications with the Syntropy Data Layer platform.
 
 # Installation
 
@@ -11,18 +11,18 @@ No installation required. Download the repository and use NatsProvider core clas
 
 # Getting Started
 
-Before you begin using the Kotlin SDK, make sure you have the necessary credentials and access tokens from the Syntropy [Developer Portal](https://developer-portal.syntropynet.com/) platform. These credentials (Access Token) will allow you to connect to the Data Layer and subscribe to or publish data streams.
+Before you begin using the Java SDK, make sure you have the necessary credentials and access tokens from the Syntropy [Developer Portal](https://developer-portal.syntropynet.com/) platform. These credentials (Access Token) will allow you to connect to the Data Layer and subscribe to or publish data streams.
 
 ## Examples
 
-For detailed usage example, please refer to the [examples directory]([https://github.com/daviderota/pubsub-Kotlin/subscribe_with_seed.kt](https://github.com/daviderota/pubsub-Kotlin/blob/main/src/main/Kotlin/subscribe_by_seed.kt)) in the repository. 
+For detailed usage example, please refer to the [examples directory]([https://github.com/daviderota/pubsub-Java/subscribe_with_seed.kt](https://github.com/daviderota/pubsub-Java/blob/main/src/main/Java/subscribe_by_seed.kt)) in the repository. 
 These examples explain how you can subscribe messages by NATS connection and demonstrate how to utilize the SDK's features effectively.
-Another example is [examples directory]([https://github.com/daviderota/pubsub-Kotlin/subscribe_with_seed.kt](https://github.com/daviderota/pubsub-Kotlin/blob/main/src/main/Kotlin/publish.kt))
+Another example is [examples directory]([https://github.com/daviderota/pubsub-Java/subscribe_with_seed.kt](https://github.com/daviderota/pubsub-Java/blob/main/src/main/Java/publish.kt))
 
 The preferred authentication method is using an access token from the [developer portal](https://developer-portal.syntropynet.com/).
 
 # Contributing
-We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/daviderota/pubsub-Kotlin). We appreciate your feedback and collaboration in making this SDK even better. 
+We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/daviderota/pubsub-Java). We appreciate your feedback and collaboration in making this SDK even better. 
 
 ## Contribution Guidelines
 
@@ -42,6 +42,6 @@ We appreciate your contributions and thank you for your support in making this p
 
 # Support
 
-If you encounter any difficulties or have questions regarding the Kotlin SDK for Data Layer, please reach out to our support team at  [Discord #developer-discussion](https://discord.com/channels/503896258881126401/1125658694399561738). We are here to assist you and ensure a smooth experience with our SDK.
+If you encounter any difficulties or have questions regarding the Java SDK for Data Layer, please reach out to our support team at  [Discord #developer-discussion](https://discord.com/channels/503896258881126401/1125658694399561738). We are here to assist you and ensure a smooth experience with our SDK.
 
-We hope this documentation provides you with a comprehensive understanding of the Kotlin SDK for the Data Layer. Enjoy leveraging real-time data streams and unlocking the power of the Data Layer in your Kotlin applications!
+We hope this documentation provides you with a comprehensive understanding of the Java SDK for the Data Layer. Enjoy leveraging real-time data streams and unlocking the power of the Data Layer in your Java applications!

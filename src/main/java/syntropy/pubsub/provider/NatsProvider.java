@@ -107,7 +107,7 @@ public class NatsProvider {
         if (nc == null)
             throw new Exception("Nats connection is not established");
         else
-            nc.publish(_stream, (message + "x ").getBytes());
+            nc.publish(_stream, message.getBytes());
 
     }
 
